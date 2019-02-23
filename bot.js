@@ -11,3 +11,4 @@ channel.send(`Lamine, Lamine, Lamine, Lamine, Lamine, Lamine, Lamine, Lamine, La
 })
 
 client.login(process.env.BOT_TOKEN);
+client.login(process.env.BOT_TOKEN2);
